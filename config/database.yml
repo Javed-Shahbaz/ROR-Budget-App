@@ -24,6 +24,8 @@ default: &default
 development:
   <<: *default
   database: ROR_Budget_App_development
+  username: postgres
+  password: 123
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -82,5 +84,5 @@ test:
 production:
   <<: *default
   database: ROR_Budget_App_production
-  username: ROR_Budget_App
-  password: <%= ENV["ROR_BUDGET_APP_DATABASE_PASSWORD"] %>
+  username: postgres
+  password: 123
