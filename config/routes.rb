@@ -12,3 +12,4 @@ Rails.application.routes.draw do
     resources :entities, only: %i[index new create destroy update]
   end
 end
+
