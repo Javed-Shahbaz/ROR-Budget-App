@@ -79,7 +79,7 @@ This project is about building a mobile web application to manage a person budge
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 - <a href="https://budget-app-g33j.onrender.com/">Live Demo</a>
-- [Video Presentation](https://www.loom.com/share/930e60a53bb9417daf0b622c47d1d078?sid=4a91d503-5f1c-4751-adbe-92a2dd040542)
+- [Video Presentation](https://www.loom.com/share/15669a6afce64915a8cc0e7779153cf7?sid=c14e156b-ae6d-4a68-8c45-b1823a49ca8f)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
